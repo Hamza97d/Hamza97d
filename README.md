@@ -1,4 +1,4 @@
-# Ciao! 👋
+# Hi, I'm Hamza! 👋
 
 ## About Me
 
