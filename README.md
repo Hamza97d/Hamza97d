@@ -6,7 +6,7 @@ I'm a robotic systems maintainer enthusiastically venturing into the dynamic rea
 
 ## 🎯 Goals
 
-Currently, I'm immersed in an intensive data analyst course, honing the crucial skills of the trade. My grand plan involves aspiring to become a Database Administrator. To materialize this goal, I'm set to acquire additional skills and certifications, positioning myself to excel in designing, implementing, and managing intricate databases.✨
+Currently, I'm immersed in an intensive data analyst internship, honing the crucial skills of the trade. My grand plan involves aspiring to become a Database Administrator. To materialize this goal, I'm set to acquire additional skills and certifications, positioning myself to excel in designing, implementing, and managing intricate databases.✨
 
 ## 💻 Tech Stack
 
